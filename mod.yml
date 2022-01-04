@@ -1,6 +1,7 @@
 title: Keyblade Zero One over KK
 originalAuthor: K3Dvrk05
 description: Custom Zero One Keyblade 3D Model Over Kingdom Key
+assets:
  - name: obj/W_EX010.mdlx
    method: copy
    source:
